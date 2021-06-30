@@ -1,4 +1,4 @@
-##Assignment DICTIONARY Client
+Assignment DICTIONARY Client
 Recent updates
 Changes in the assignment description, if any, will be listed here.
 One DICT service online is dict.org on the standard port 2628
