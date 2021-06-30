@@ -1,4 +1,4 @@
-Assignment DICTIONARY Client
+##Assignment DICTIONARY Client
 Recent updates
 Changes in the assignment description, if any, will be listed here.
 One DICT service online is dict.org on the standard port 2628
@@ -14,14 +14,6 @@ Here is a simple online tutorial for reading and writing data from a socket.  ht
 There are many other ones online.  For much more detailed there is "TCP/IP Sockets in Java" by Calvert and Donahoo.
 Do not register for a repo until you have read the assignment and the instructions on using git.  The link for registering for the assignment is https://www.ugrad.cs.ubc.ca/~cs317/php/register-partners.php Links to an external site.
 
-Due Date
-Friday, October 2, 11:59 PM.
-
-Late penalty: 33.33% per day (pro-rated by the minute) to a maximum of 2 days. Assignments are not accepted after 2 days.
-
-This assignment can be done with a partner or alone. You are encouraged to work with a partner. 
-
-You are reminded that all work for this assignment must be new, original work produced by you or your partner, if you are working with one. Make sure to review the section on Academic Conduct and what is allowed and what is not allowed.
 
 Goals
 To learn how to make, in Java, a TCP/IP connection and how to exchange data over the connection.
